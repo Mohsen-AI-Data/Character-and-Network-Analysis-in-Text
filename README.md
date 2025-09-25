@@ -22,6 +22,7 @@ This project focuses on developing an automated model for analyzing characters a
 
 ## Installation
 
+
 To set up the project, follow these steps:
 
 1. Clone the repository:
